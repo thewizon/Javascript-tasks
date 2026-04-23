@@ -18,7 +18,7 @@ A simple and interactive web project that simulates a real-life light bulb using
 
 ## 📂 Project Structure
 
-* `index.html` → main file
+* `bulb.html` → main file
 * `off.png` → bulb image
 * `sound.mp3` → toggle sound
 
@@ -26,11 +26,7 @@ A simple and interactive web project that simulates a real-life light bulb using
 
 1. Open the project in VS Code
 2. Click **Go Live** (Live Server)
-3. Or open `index.html` in browser
-
-## 🌐 Live Demo (optional)
-
-Add your GitHub Pages link here later.
+3. Or open `bulb.html` in browser
 
 ## 📌 Future Improvements
 
